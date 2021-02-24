@@ -1,0 +1,67 @@
+#heading
+{
+    font-size: 35px ;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#text
+{
+    font-size: 16px ;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1fa12e;
+}
+
+#text li a
+{
+    color:black;
+}
+
+
+
+#but
+{
+    font-size: 16px ;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#but:hover
+{
+    background: transparent;
+    color:  #1fa12e;
+}
+
+
+#read
+{
+    list-style: none;
+    background-color: #1fa12e;
+}
+
+#read:hover
+{
+    background: transparent;
+    color:  #1fa12e;
+}
+
+.cont
+{
+    list-style: none;
+    padding: 15px 0;
+}
+
+#after
+{
+    left: 85%;
+    top: 90%;
+}
+
+.number
+{
+    color: #1fa12e;
+    font: bold;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
